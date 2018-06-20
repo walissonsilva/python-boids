@@ -8,5 +8,17 @@
 
 - O efeito da alteração desses pesos são apresentados [nesse vídeo](https://youtu.be/uJtK-DqlUds).
 
+## Resultados
 
+### Execução do algoritmo sob condições normais
+
+![Normal](Resultados/normal.png)
+
+### Execução do algoritmo com alta coesão
+
+![Alta Coesão](Resultados/alta_coesao.png)
+
+### Execução do algoritmo com alta separação
+
+![Alta Separação](Resultados/alta_separacao.png)
 
